@@ -1,13 +1,28 @@
 # HoneyBadger Labs
 
-HoneyBadger Labs develops resilient software designed to operate
-when modern infrastructure fails.
+HoneyBadger Labs develops resilient software designed to operate when modern infrastructure fails.
 
-## Projects
+Our focus is building tools that continue to function in **low-connectivity, disconnected, or grid-down environments**.
+
+---
+
+## Current Projects
 
 ### GridDown
 
-GridDown is an offline AI knowledge system built to provide
-critical information when internet access is unavailable.
+GridDown is an **offline AI knowledge system** designed to provide critical technical and survival information when internet access is unavailable.
 
-Developed by HoneyBadger Labs
+The system runs locally and references a curated knowledge library covering areas such as:
+
+- medical reference
+- electronics repair
+- communications
+- mechanical systems
+- homesteading
+- field survival knowledge
+
+GridDown is designed to operate from portable systems including **laptops, rugged hardware, and removable media**.
+
+---
+
+## Repository Structure
